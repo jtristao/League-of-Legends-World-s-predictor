@@ -1,1 +1,1 @@
-# League-of-Legends-World-s-predictor
+# League of Legends World's Predictor

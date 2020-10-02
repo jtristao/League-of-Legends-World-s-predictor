@@ -1,0 +1,13 @@
+# TODO
+
+## Filtrar dados
+	- Levantar jogadores que irão participar
+	- Levantar times que irão participar
+	- Encoding atributos categóaricos (problemas com dimensionalidade)/(jogadores/times)
+	- Separar champions: {Pick, Ban, Win Rate, # Matches, Patch}
+
+## Médias
+	- Como construir a média das partidas anteriores de forma útil?
+
+## PCA
+	- Quais as features mais relevantes?

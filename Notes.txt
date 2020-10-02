@@ -1,0 +1,6 @@
+# Notes
+
+- Média das partidas anteriores como input (classificar excluindo a partida atual):
+	* Média de todas as partidas
+	* Média de um número x de partidas
+	* Ponderar a média das partidas de acordo com uma função

@@ -1,4 +1,4 @@
-# TODO
+=# TODO
 
 ## Filtrar dados
 	- Levantar jogadores que irão participar
@@ -11,3 +11,6 @@
 
 ## PCA
 	- Quais as features mais relevantes?
+
+##Problema de entrada
+	- Como fazer 10 inputs(cada linha é equivalente a um jogador) virar um input só? (o input do time x contra o time y)
